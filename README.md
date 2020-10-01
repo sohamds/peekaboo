@@ -66,7 +66,7 @@ From a blank newly created database with no tables, run:
 
 ``./manage.py syncdb --noinput``
 
-followed by:
+Followed by:
 
 ``./manage.py migrate``
 
